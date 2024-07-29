@@ -16,7 +16,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "xo": "0.33.1"
+    "xo": "0.59.3"
   },
   "xo": {
     "rules": {
